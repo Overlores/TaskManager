@@ -1,0 +1,18 @@
+# Visual Studio temporary files
+.vs/
+
+# Build output
+x64/
+Debug/
+Release/
+
+# User-specific settings
+*.user
+*.suo
+
+# Compiler-generated files
+*.obj
+*.pdb
+*.ilk
+*.idb
+*.pch
